@@ -4,3 +4,4 @@ joblib
 scikit-learn
 imbalanced-learn
 numpy
+category-encoders
