@@ -1,7 +1,7 @@
 streamlit
-pandas
-joblib
-scikit-learn
-imbalanced-learn
-numpy
-category-encoders
+pandas == 2.2.3
+joblib == 1.4.2
+scikit-learn == 1.2.2
+imbalanced-learn == 0.12.3
+numpy == 1.26.4
+category-encoders == 2.6.4
